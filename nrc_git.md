@@ -104,5 +104,6 @@ Tutorials and help
 Let's commit something!
 ========================================================
 
+git is great!
 
 
