@@ -57,5 +57,22 @@ Why git?
 Why git?
 ========================================================
 
-
 ![some caption](figures/comparison.png)
+
+
+
+Use git
+========================================================
+
+![some caption](figures/git_GUI_overview_part01mod.png)
+
+
+NRC commit
+========================================================
+
+
+
+
+
+
+
