@@ -60,6 +60,7 @@ Why git?
 ![some caption](figures/comparison.png)
 
 
+<<<<<<< HEAD
 What git can do
 ========================================================
 
@@ -86,6 +87,8 @@ Learning to talk git
 * joining finished work steps **[merge]**
 * moving around in time **[checkout]**
 
+=======
+>>>>>>> d6cf9ce98ce17163f67c63e384225b9e9fb38b66
 
 Use git
 ========================================================
@@ -93,6 +96,7 @@ Use git
 ![some caption](figures/git_GUI_overview_part01mod.png)
 
 
+<<<<<<< HEAD
 Tutorials and help
 ========================================================
 
@@ -104,6 +108,9 @@ Tutorials and help
 * **NRC spring school: Data management for geoscientists (Norbert Marwan)**
 
 Let's commit something!
+=======
+NRC commit
+>>>>>>> d6cf9ce98ce17163f67c63e384225b9e9fb38b66
 ========================================================
 
 
