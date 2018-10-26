@@ -106,4 +106,4 @@ Let's commit something!
 
 git is great!
 
-
+git is beautiful!
